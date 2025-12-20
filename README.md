@@ -14,5 +14,6 @@
 </h4>
 
 <p align="center">
-    <img alt="Github Streak" src="https://streak-stats.demolab.com?user=Karnosio&theme=tokyonight&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D">
+    <img alt="Github Streak" src="http://mirror.karnos.io/stats.svg">
 <p>
+
